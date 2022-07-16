@@ -1,0 +1,2 @@
+C:\Users\Dell\Desktop\Suman\Web\Sudikshya\Sudikshya\obj\Debug\E-Commerce.njsproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Suman\Web\Sudikshya\Sudikshya\bin\Microsoft.NodejsTools.WebRole.dll

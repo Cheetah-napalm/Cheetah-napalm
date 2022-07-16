@@ -1,0 +1,3 @@
+C:\Users\Dell\Desktop\Suman\Web\Sudikshya\Sudikshya\obj\Debug\Sudikshya.njsproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Suman\Web\Sudikshya\Sudikshya\obj\Debug\Sudikshya.njsproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Suman\Web\Sudikshya\Sudikshya\bin\Microsoft.NodejsTools.WebRole.dll
